@@ -1,0 +1,49 @@
+{
+  "packageId": "com.logintoloans.mobile.twa",
+  "host": "mobile.logintoloans.com",
+  "name": "LoginToLoans",
+  "launcherName": "LoginToLoans",
+  "display": "standalone",
+  "themeColor": "#002B7F",
+  "themeColorDark": "#000000",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFFFFF",
+  "enableNotifications": true,
+  "startUrl": "/",
+  "iconUrl": "https://mobile.logintoloans.com/icon-512.png",
+  "maskableIconUrl": "https://mobile.logintoloans.com/icon-512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "C:\\xampp\\htdocs\\mobile.login-to-loan\\android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "2",
+  "appVersionCode": 2,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://mobile.logintoloans.com/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://mobile.logintoloans.com/",
+  "minSdkVersion": 21,
+  "orientation": "portrait",
+  "fingerprints": [
+    "58:7D:19:45:3F:F5:73:BD:59:98:9E:65:CA:9C:AA:C9:0A:7C:CD:71:7A:BA:A4:FF:93:9B:7A:CF:80:89:5A:BB"
+  ],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "protocolHandlers": [],
+  "fileHandlers": [],
+  "launchHandlerClientMode": "",
+  "displayOverride": [],
+  "appVersion": "2"
+}
